@@ -137,16 +137,6 @@ input:focus {
   color: var(--Purple);
 }
 
-footer {
-  font-size: 10px;
-  margin: 1rem 0;
-  text-align: center;
-}
-
-footer a {
-  color: inherit;
-  font-size: inherit;
-}
 
 @media screen and (max-width: 400px) {
   * {
